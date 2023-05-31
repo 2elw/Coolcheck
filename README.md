@@ -1,3 +1,4 @@
+# Cloudwise Coolcheck
 The Cloudwise Coolcheck kiosk app for exams.
 # Why?
 * If you want to cheat (Do fullscreen then alt+tab to google)
